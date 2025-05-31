@@ -1,6 +1,6 @@
-# Pathfinding Visualizer
+# Route Exploration Tool
 
-Welcome to Pathfinding Visualizer! I built this application because I was fascinated by pathfinding algorithms, and I wanted to visualize them in action. 
+Welcome to Route Exploration Tool! I built this application because I was fascinated by pathfinding algorithms, and I wanted to visualize them in action. 
 ## Meet the Algorithms
 
 This application supports the following algorithms: 
